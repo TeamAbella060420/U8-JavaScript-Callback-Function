@@ -10,3 +10,6 @@ executeCallback(function() {
 });
 
 //Print Goodbye
+executeCallback(function() {
+    console.log('Goodbye');
+});

@@ -5,3 +5,5 @@ function sayHello() {
 function executeCallback(callback) {
     callback();
 }
+
+executeCallback(sayHello);

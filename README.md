@@ -10,4 +10,4 @@ We also have a logTeacher function that takes the teacher, and
 prints out their name and role.
 3. Anonymous Functions - An anonymous function is a function without a name. In the case of a callback an anonymous function can be written in place or in line where the name of the function would be.
 4. Anonymous Function as Arrow Functions - Arrow functions are a common way you'll see anonymous functions being written.
-5. Using a One-Off Timer with setTimeout - 
+5. Using a One-Off Timer with setTimeout - explore one-off timers with the `setTimeout` function.

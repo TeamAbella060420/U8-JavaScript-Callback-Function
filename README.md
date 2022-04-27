@@ -8,4 +8,4 @@ Open up the logger.js file, and
 you can see we have a variable with my name and role.
 We also have a logTeacher function that takes the teacher, and
 prints out their name and role.
-3. Anonymous Functions - An anonymous function is a function without a name.
+3. Anonymous Functions - An anonymous function is a function without a name. In the case of a callback an anonymous function can be written in place or in line where the name of the function would be.

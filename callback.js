@@ -8,3 +8,5 @@ function executeCallback(callback) {
 executeCallback(function() {
     console.log('Hello');
 });
+
+//Print Goodbye

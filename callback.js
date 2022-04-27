@@ -5,7 +5,7 @@ function executeCallback(callback) {
 
 
 //Print Hello
-executeCallback(function() {
+executeCallback(() => {
     console.log('Hello');
 });
 
